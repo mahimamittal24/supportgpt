@@ -1,0 +1,32 @@
+Product Overview:
+TaskFlow is a cloud-based project management platform that helps teams manage tasks, deadlines, and collaboration.
+
+Account Creation:
+Users can create an account using an email and password or by signing in with Google Single Sign-On.
+
+Login Issues:
+If a user cannot log in, they should click on the "Forgot Password" link to reset their password.
+
+Subscription Plans:
+TaskFlow offers three plans: Free, Pro, and Enterprise. Subscriptions are billed monthly.
+
+Refund Policy:
+Users are eligible for a refund within 14 days of purchase for monthly subscriptions.
+
+Payment Failures:
+If a payment fails, users are notified by email and have 7 days to update their payment method before the account is downgraded.
+
+Account Cancellation:
+Users can cancel their subscription at any time from the account settings page.
+
+Account Deletion:
+Users can request permanent account deletion from the account settings. All data is deleted within 30 days.
+
+Team Management:
+Pro and Enterprise users can invite team members and assign roles such as Admin or Member.
+
+Security:
+TaskFlow encrypts data in transit and at rest to protect user information.
+
+Support Contact:
+Users can contact support via email or in-app chat for additional assistance.
