@@ -12,6 +12,7 @@ TaskFlow offers three plans: Free, Pro, and Enterprise. Subscriptions are billed
 
 Refund Policy:
 Users are eligible for a refund within 14 days of purchase for monthly subscriptions.
+Refunds are processed within 5–7 business days after approval.
 
 Payment Failures:
 If a payment fails, users are notified by email and have 7 days to update their payment method before the account is downgraded.
